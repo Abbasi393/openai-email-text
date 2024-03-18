@@ -1,7 +1,6 @@
 # LangChain Streamlit Email Conversion App
 
-![Email Converter Preview](https://imgur.com/a/ZVxSUsw)
-
+![Screenshot from 2024-03-18 23-04-57.png](Screenshot%20from%202024-03-18%2023-04-57.png)
 ## Overview
 
 This Streamlit app, powered by LangChain and OpenAI, facilitates the conversion of informal emails into a more professional format. It allows users to select the desired tone (formal or informal) and English dialect (American or British English) for their email. The app then generates a professionally formatted version of the input email based on the selected options.
